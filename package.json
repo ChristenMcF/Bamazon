@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "'node and mysql based storefront'",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristenMcF/Bamazon.git"
+  },
+  "author": "Christen McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristenMcF/Bamazon/issues"
+  },
+  "homepage": "https://github.com/ChristenMcF/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
